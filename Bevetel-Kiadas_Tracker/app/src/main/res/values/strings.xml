@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Koltes/Bevetel koveto</string>
+    <string name="settings">Beallitas (Limit)</string>
+    <string name="list">Listazas</string>
+    <string name="chart">Diagram (Koltes/Bevetel)</string>
+    <string name="settings_nav_header">Beallitasok</string>
+    <string name="navigation_drawer_open">Navigation Drawer nyitasa</string>
+    <string name="navigation_drawer_close">Navigation Drawer zarasa</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="cancel">Vissza</string>
+    <string name="ok">OK</string>
+    <string name="new_transaction_item">Uj tranzakcio</string>
+
+    <string name="is_income">Bevetel/Kiadas</string>
+    <string name="description">Megnevezes</string>
+    <string name="category">Tipus</string>
+    <string name="price">Osszeg</string>
+    <string name="already_purchased">Already purchased</string>
+    <string name="alertAtSpendingInMonth">Havi maximalis koltes (eleresekor figyelmeztet)</string>
+    <string name="chart2">Diagram (Koltes Kategorizalva)</string>
+    <string-array name="category_items">
+        <item>Etel/Ital</item>
+        <item>Szamla</item>
+        <item>Fizetes</item>
+        <item>Ajandek</item>
+        <item>Lakas</item>
+        <item>Egyeb</item>
+        <item>Szorakozas</item>
+        <item>Utazas</item>
+    </string-array>
+    <string-array name="is_income_items">
+        <item>Bevetel</item>
+        <item>Kiadas</item>
+    </string-array>
+</resources>
